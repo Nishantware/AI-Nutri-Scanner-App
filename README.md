@@ -1,3 +1,12 @@
+##  Tech Stack
+
+- **Frontend:** React + JavaScript 
+- **Styling:** Tailwind CSS  
+- **State Management:** React Context / Hooks  
+- **Storage:** Browser Local Storage  
+- **Package Manager:** npm / Yarn  
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
